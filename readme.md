@@ -1,0 +1,1 @@
+Esse projeto de web é basicamente pra mostrar que tenho conhecimento das ferramentas web e pra que seja uma forma de me apresentar também 
